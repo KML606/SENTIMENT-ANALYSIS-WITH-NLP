@@ -14,7 +14,7 @@
 
 
 
-#output 
+# OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cd7f9179-91a6-4420-8fab-a3f540566017" />
 
